@@ -22,8 +22,18 @@ pyclog-helper 是 pyclog 日志库的第三方辅助工具包,提供了丰富的
 
 ## 安装
 
+### 源代码安装
+
 ```bash
-pip install pyclog
+git clone https://github.com/heibaiya-dev/pyclog-helper.git
+cd pyclog-helper
+pip install -e .
+```
+
+### 从 GitHub 直接安装
+
+```bash
+pip install git+https://github.com/heibaiya-dev/pyclog-helper.git
 ```
 
 ## 快速开始
