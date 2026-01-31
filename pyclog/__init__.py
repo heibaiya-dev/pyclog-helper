@@ -4,6 +4,12 @@ from .formatter import LogFormatter, SimpleFormatter, DetailedFormatter, JSONFor
 from .handler import FileHandler, RotatingFileHandler, ConsoleHandler
 
 __version__ = "1.0.0"
+
+
+def gugugaga():
+    pass
+
+
 __all__ = [
     "Pyclog",
     "Create_Logger",
@@ -20,4 +26,5 @@ __all__ = [
     "FileHandler",
     "RotatingFileHandler",
     "ConsoleHandler",
+    "gugugaga",
 ]
