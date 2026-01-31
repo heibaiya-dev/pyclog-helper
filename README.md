@@ -1,6 +1,10 @@
-# pyclog
+# pyclog-helper
 
-一个功能全面的Python日志辅助库,提供增强的日志记录能力。
+pyclog 的辅助工具库,提供增强的日志记录能力和便捷的辅助功能。
+
+## 关于 pyclog-helper
+
+pyclog-helper 是 pyclog 日志库的官方辅助工具包,提供了丰富的日志管理功能,包括文件轮转、自定义格式化、线程安全等特性。
 
 ## 特性
 
