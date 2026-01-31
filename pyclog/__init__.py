@@ -7,6 +7,7 @@ __version__ = "1.0.0"
 
 
 def gugugaga():
+    print("🐧咕咕嘎嘎")
     pass
 
 
