@@ -221,3 +221,4 @@ MIT License
 
 ## TIPS
 所有东西都是由GLM 4.7完成的,不保证稳定性,以上的readme也是ai写的,在我自己接手这个库前，最好不要把它用在正式的项目上(真的会有人用吗awa)
+如果不会用可以发邮件给我:bilibilisome@outlook.com
